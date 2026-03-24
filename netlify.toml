@@ -1,6 +1,6 @@
 [build]
   command = "go build -o bin/signtools main.go"
-  publish = "public"
+  publish = "/"
 
 [[redirects]]
   from = "/*"
